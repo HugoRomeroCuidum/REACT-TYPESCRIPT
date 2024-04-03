@@ -1,0 +1,30 @@
+[
+  {
+      "nick": "user123",
+      "months": 8,
+      "profileUrl": "https://img.freepik.com/vector-gratis/avatar-personaje-empresario-aislado_24877-60111.jpg",
+      "description": "Usuario activo y comprometido con la comunidad.",
+      "gender": "male"
+  },
+  {
+      "nick": "coder456",
+      "months": 15,
+      "profileUrl": "https://img.freepik.com/vector-gratis/avatar-personaje-empresario-aislado_24877-60111.jpg",
+      "description": "Apasionado por la programación y el desarrollo de software.",
+      "gender": "male"
+  },
+  {
+      "nick": "dev789",
+      "months": 22,
+      "profileUrl": "https://previews.123rf.com/images/yupiramos/yupiramos1709/yupiramos170910660/85494557-avatar-mujer-retrato-de-la-mujer-ilustraci%C3%B3n-imagen-del-vector.jpg",
+      "description": "Desarrollador experimentado con habilidades en múltiples tecnologías.",
+      "gender": "female"
+  },
+  {
+      "nick": "testuser",
+      "months": 5,
+      "profileUrl": "https://previews.123rf.com/images/yupiramos/yupiramos1709/yupiramos170910660/85494557-avatar-mujer-retrato-de-la-mujer-ilustraci%C3%B3n-imagen-del-vector.jpg",
+      "description": "Usuario de pruebas probando nuevas características.",
+      "gender": "female"
+  }
+]
